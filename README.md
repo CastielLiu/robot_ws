@@ -43,9 +43,6 @@ roslaunch robot_nav ctrl_wan.launch
 
 
 
-
-
-
 # autolabor差动机器人
 ## cartographer建图
 roslaunch slam autolabor_cartographer_slam_for_one_lidar.launch  #开始单雷达建图
